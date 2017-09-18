@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Focus Management</string>
+    <string name="imageView">Imagem Inicial</string>
+    <string name="Apres1">Cansado de começar e não terminar tarefas ou projetos?</string>
+    <string name="Apres2">O Focus Management poderá te ajudar tanto a alcançar teus objetivos quanto obter novos hábitos, como a disciplina e o foco. Vamos lá?</string>
+    <string name="Apres3">Cadastre aqui seu primeiro objetivo ou continue para visualizar os que já estão em andamento.</string>
+    <string name="Cnt">Continuar</string>
+    <string name="Cad">Cadastrar</string>
 </resources>
